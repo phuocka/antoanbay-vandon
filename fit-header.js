@@ -9,7 +9,13 @@
     const brandStyle = getComputedStyle(brand);
     const siblings = [...brand.children].filter(el => el !== name && getComputedStyle(el).display !== 'none');
     const available = brand.clientWidth - siblings.reduce((sum, el) => sum + el.getBoundingClientRect().width, 0) - siblings.length * (parseFloat(brandStyle.columnGap) || 0);
-    const lines = [name.firstChild.textContent.trim(), name.querySelector('small').textContent.trim()];
+    const small = name.querySelector('small');
+    if (!small) {
+      name.style.whiteSpace = 'normal';
+      name.style.fontSize = '';
+      return;
+    }
+    const lines = [name.firstChild.textContent.trim(), small.textContent.trim()].filter(Boolean);
     ctx.font = `700 100px ${style.fontFamily}`;
     const width = Math.max(...lines.map(line => ctx.measureText(line).width));
     if (available > 0 && width > 0) name.style.fontSize = `${Math.floor((available - 1) * 10000 / width) / 100}px`;
