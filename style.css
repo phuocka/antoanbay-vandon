@@ -1,0 +1,168 @@
+:root{--navy:#0b2033;--ink:#152e40;--red:#b32630;--gold:#f4c45e;--line:#dce3e8;--soft:#f1f5f8}*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:95px}body{margin:0;color:var(--ink);font-family:Arial,SiteSans,Helvetica,sans-serif;font-size:18px;line-height:1.7;background:#fff}a{color:inherit;text-decoration:none}a:focus-visible,summary:focus-visible{outline:3px solid #d28e00;outline-offset:5px}.skip{position:absolute;top:-100px}.skip:focus{top:10px;background:white;z-index:5;padding:12px}header{max-width:1440px;margin:auto;min-height:92px;padding:20px 5%;display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{display:flex;align-items:center;gap:12px;font-size:15px;font-weight:700;letter-spacing:.07em;line-height:1.5}.brand small{display:block;font-size:13px;letter-spacing:.12em;font-weight:400}.brand-mark{background:#3992C9;color:var(--gold);width:42px;height:42px;display:grid;place-items:center;font-size:20px;letter-spacing:-.03em}.header-phone{font-size:15px}.header-phone strong{margin-left:10px;color:var(--red);font-size:18px}.hero{background:#3992C9;color:white;margin:0 24px}.hero-inner{max-width:1260px;margin:auto;display:grid;grid-template-columns:3fr 1fr;gap:60px;padding:66px 5% 58px}.hero-label{font-size:15px;letter-spacing:.14em;font-weight:700;display:flex;align-items:center;gap:12px;color:#ff9a98}.hero-label span{width:28px;height:3px;background:#e44e51}h1{font-size:calc(clamp(42px,calc(5.2vw + 2px),74px) + 1px);font-weight:700;line-height:1.19;letter-spacing:-.035em;margin:22px 0}h1 em{font-family:"Times New Roman",Times,serif;color:var(--gold);font-weight:400;font-style:italic}.hero-copy>p{color:#c4d1dc;font-size:19px;line-height:1.7}.hero-button{display:inline-flex;align-items:center;gap:30px;background:var(--gold);color:var(--navy);padding:14px 22px;margin-top:18px;font-weight:700;font-size:17px}.hero-button:hover{background:#ffda88}.hero-side{border-left:1px solid #ffffff25;padding-left:35px;align-self:stretch;display:flex;flex-direction:column;justify-content:center}.hero-side p{font-size:24px;line-height:1.6;font-weight:700;letter-spacing:.04em}.hero-side-foot{font-size:13px;letter-spacing:.18em;color:#a4bacb}.hero-rule{height:3px;width:40px;background:var(--gold)}#emblem-slot img{height:118px;width:118px;object-fit:contain;margin-bottom:24px}.hero-bottom{border-top:1px solid #ffffff25;padding:14px 5%;display:flex;justify-content:space-between;font-size:13px;letter-spacing:.12em;color:#b7c7d5;gap:12px}.page-layout{max-width:1260px;display:grid;grid-template-columns:240px minmax(0,1fr);gap:65px;padding:68px 30px 80px;margin:auto}.navigation{align-self:start;position:sticky;top:25px}.navigation>p{font-size:13px;font-weight:700;letter-spacing:.12em;color:#677988;margin:0 0 20px}.navigation nav{display:flex;flex-direction:column}.navigation nav a{font-size:16px;padding:12px 0;border-bottom:1px solid var(--line);display:flex;gap:17px;font-weight:700}.navigation nav a:hover{color:var(--red)}.navigation nav span{font-size:14px;color:#738492;font-weight:400}.map-link{display:block;margin-top:26px;font-size:15px;color:var(--red);font-weight:700}.section{padding:0 0 52px;margin-bottom:50px;border-bottom:1px solid var(--line);scroll-margin-top:25px}.section-heading{display:flex;align-items:flex-start;gap:18px;margin-bottom:26px}.section-no{font-family:Georgia,serif;font-size:46px;line-height:1.25;color:#bcc7cf}.eyebrow{text-transform:uppercase;letter-spacing:.1em;color:var(--red);font-size:calc(13px + 1px);font-weight:700}h2{font-size:calc(32px + 1px);line-height:1.35;letter-spacing:-.02em;margin:5px 0 0}h3{font-size:calc(19px + 1px);line-height:1.5;margin:28px 0 10px;font-weight:700}p{margin:12px 0}ul{padding-left:24px;margin:12px 0 20px}li{margin:6px 0;padding-left:3px}li::marker{color:var(--red)}.emphasis{font-weight:700}.section-1 .section-body>h3{border-left:3px solid var(--red);padding-left:14px}.section-1 .section-body>h3:nth-of-type(2){border-color:#de9900}.province{border:1px solid var(--line);margin:14px 0;background:#fff}.province summary{padding:18px 22px;cursor:pointer;font-size:calc(16px + 1px);font-weight:700;list-style:none;display:flex;justify-content:space-between;gap:20px}.province summary::-webkit-details-marker{display:none}.plus{font-size:24px;line-height:1;color:var(--red)}.province[open] .plus{transform:rotate(45deg)}.province[open] summary{background:var(--soft);border-bottom:1px solid var(--line)}.province>div{padding:10px 22px 20px}.notice{background:#fff7e6;border-left:3px solid #d59b23;padding:14px 22px;margin:24px 0}.notice h3{margin:0 0 8px}.checks{display:grid;gap:20px}.check{position:relative;border:1px solid var(--line);padding:26px 28px;background:var(--soft)}.check-number{color:var(--red);font-size:14px;font-weight:700;letter-spacing:.1em}.check>h3:first-of-type{margin-top:8px;font-size:calc(22px + 1px)}.action{display:flex;justify-content:space-between;align-items:center;gap:15px;padding:14px 18px;background:#3992C9;color:white;font-weight:700;font-size:16px;margin:20px 0 8px}.action:hover{background:#3992C9}.section-4 .section-body>h3{color:var(--red)}.section-6{background:#3992C9;color:white;padding:32px;border:0;margin-bottom:0}.section-6 .eyebrow{color:var(--gold)}.section-6 .section-no{color:#7b95a9}.section-6 .section-body>h3{color:var(--gold)}.phone{font-size:clamp(28px,calc(4vw + 1px),43px);font-weight:700;letter-spacing:-.03em;border-bottom:1px solid #ffffff35;padding:10px 0;display:flex;justify-content:space-between;gap:20px}.phone span{color:var(--gold)}footer{background:var(--soft);padding:36px 6%;font-size:15px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px}footer p{font-size:13px;color:#5d6e7c}footer strong{font-size:17px}.mobile-bar{display:none}@media(min-width:1500px){.hero{max-width:1440px;margin:auto}}@media(max-width:960px){.page-layout{gap:30px;grid-template-columns:190px minmax(0,1fr)}.hero-inner{gap:25px}.hero-side{padding-left:25px}.hero-side p{font-size:19px}.header-phone{font-size:0}.header-phone strong{font-size:16px}.section-6{padding:24px}}@media(max-width:700px){body{font-size:17px}.hero{margin:0 12px}.hero-inner{display:block;padding:36px 24px 34px}.hero-side{display:none}.hero-label{font-size:13px;letter-spacing:.08em}h1{font-size:calc(43px + 1px);line-height:1.23;margin:22px 0;letter-spacing:-.04em}.hero-copy>p{font-size:17px}.hero-button{font-size:15px;padding:13px 16px;gap:20px}.hero-bottom{padding:12px 24px;font-size:11px;letter-spacing:.08em}.hero-bottom span:last-child{display:none}header{padding:17px 20px;min-height:76px}.brand{font-size:12px;gap:9px;letter-spacing:.035em}.brand small{font-size:11px}.brand-mark{width:34px;height:34px;font-size:17px}.header-phone strong{font-size:14px;margin:0}.page-layout{display:block;padding:26px 22px 40px}.navigation{position:static;margin-bottom:38px}.navigation>p{margin-bottom:10px}.navigation nav{display:flex;flex-direction:row;flex-wrap:wrap;gap:8px}.navigation nav a{border:1px solid var(--line);font-size:14px;padding:7px 10px;gap:6px;font-weight:500}.navigation nav span{font-size:13px}.map-link{display:none}.section-heading{gap:13px}.section-no{font-size:36px}h2{font-size:calc(28px + 1px)}.eyebrow{font-size:calc(12px + 1px)}.section{padding-bottom:30px;margin-bottom:32px}.check{padding:20px}.check>h3:first-of-type{font-size:calc(20px + 1px)}.province summary{padding:16px;font-size:calc(15px + 1px)}.province>div{padding:8px 16px 14px}.section-6{padding:24px 20px;margin-left:-10px;margin-right:-10px}.section-6 h2{font-size:calc(27px + 1px)}.section-6 .section-no{display:none}footer{padding:25px 22px 100px;display:block}.mobile-bar{display:flex;position:fixed;bottom:0;left:0;right:0;background:white;padding:10px 16px calc(10px + env(safe-area-inset-bottom));gap:10px;border-top:1px solid var(--line);box-shadow:0 -4px 22px #0b203310;z-index:10}.mobile-bar a{font-size:15px;text-align:center;padding:10px 8px;flex:1;font-weight:700;background:var(--soft)}.mobile-bar a:last-child{background:var(--red);color:white;flex:.8}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.hero-label img{object-fit:contain;flex-shrink:0}.attribution{width:100%;font-size:13px!important;margin:0}.attribution a{text-decoration:underline}@media(max-width:700px){.brand{font-size:13px}.brand small{font-size:13px}.hero-bottom{font-size:13px}.eyebrow{font-size:calc(13px + 1px)}.hero-label{font-size:13px}.hero-label img{width:56px;height:46px}.brand-mark{display:none}}
+
+/* Requested colors, shared by desktop and mobile. */
+a[href="https://cambay.mod.gov.vn/"]{background-color:#F2A65A;color:var(--ink)}
+.mobile-bar a[href="https://cambay.mod.gov.vn/"]{background-color:#F2A65A;color:var(--ink)}
+.mobile-bar a[href="tel:0335366525"]{background-color:#DA251D;color:#FFCD00}
+
+/* Language selection and navigation. */
+.language-switch{max-width:1440px;margin:auto;padding:10px 5% 0;display:flex;justify-content:flex-end;gap:8px;flex-wrap:wrap}
+.language-switch a{display:inline-flex;align-items:center;gap:7px;font-size:15px;line-height:1.5;padding:7px 12px;border:1px solid var(--line);border-radius:4px;color:var(--ink);background:#fff}
+.language-switch a[aria-current="page"]{border-color:#3992C9;background:#eaf5fc;font-weight:700}
+.language-switch img,.language-option img{object-fit:contain;flex-shrink:0}
+.flag-credit{font-size:13px;width:100%;margin:0;color:#5d6e7c}
+.flag-credit a,.entry-credits a{text-decoration:underline}
+.language-entry{min-height:100vh;min-height:100svh;background:#eef6fc;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:32px 20px;border-top:8px solid #3992C9}
+.language-card{width:100%;max-width:520px;background:#fff;padding:40px;border:1px solid #d8e8f3;border-radius:16px;box-shadow:0 18px 55px #152e4010;text-align:center}
+.entry-emblem{object-fit:contain;max-width:100%;width:103px;height:auto}
+.entry-location{font-size:17px;font-weight:700;letter-spacing:.2em;margin:14px 0 6px;color:#b32630}
+.language-card h1{font-size:calc(clamp(30px,calc(5vw + 2px),38px) + 1px);line-height:1.3;margin:0;letter-spacing:-.025em;color:var(--ink)}
+.entry-subtitle{font-size:19px;margin:6px 0 0;color:#536b7d}
+.entry-divider{height:1px;background:#dce8f0;margin:26px 0}
+.language-card h2{font-size:calc(24px + 1px);margin:0;line-height:1.4}
+.entry-instruction{margin:3px 0 22px;font-size:17px;color:#536b7d}
+.language-options{display:grid;gap:14px}
+.language-option{display:flex;align-items:center;gap:16px;width:100%;padding:15px 20px;border-radius:8px;font-size:22px;font-weight:700;line-height:1.4;text-align:left;min-height:78px}
+.language-vietnamese{background:#DA251D;color:#FFCD00}
+.language-english{background:#3992C9;color:#071e2e}
+.entry-arrow{margin-left:auto;font-size:27px}
+.language-option:hover{box-shadow:inset 0 0 0 2px #ffffffa0}
+.language-option:focus-visible{outline:3px solid #152e40;outline-offset:4px}
+.entry-credits{text-align:center;max-width:640px;font-size:13px;line-height:1.6;color:#5d6e7c;margin-top:22px}
+.entry-credits p{margin:5px 0}
+html[lang="en"] .brand{letter-spacing:.025em}
+html[lang="en"] h1{font-size:calc(clamp(38px,calc(5vw + 2px),66px) + 1px)}
+@media(max-width:700px){.language-switch{padding:10px 20px 0}.language-switch a{font-size:15px;padding:6px 10px}.language-card{padding:28px 22px}.language-entry{padding:24px 16px}.language-option{padding:14px 16px;font-size:21px;gap:12px}.language-option img{width:40px;height:40px}.entry-credits{font-size:13px}html[lang="en"] .brand{font-size:13px;letter-spacing:0}html[lang="en"] .brand small{font-size:13px}html[lang="en"] .header-phone{max-width:100px}html[lang="en"] .header-phone strong{white-space:nowrap}html[lang="en"] h1{font-size:calc(40px + 1px)}html[lang="en"] .hero-button{gap:12px}html[lang="en"] .mobile-bar a{font-size:15px}}
+
+/* Centered public security emblem and motto. */
+.hero-banner>.hero-label{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;width:100%;padding:32px 20px 0;text-align:center;color:#C8322B}
+.hero-banner>.hero-label img{width:96px;height:auto;object-fit:contain}
+.hero-motto{margin:0;font-size:17px;font-weight:700;line-height:1.6;letter-spacing:.09em;text-transform:uppercase;text-align:center;color:#C8322B}
+.hero-inner{padding-top:32px}
+.contact-icon{display:inline-block;font-family:Arial,SiteSans,Helvetica,sans-serif;font-size:1em;line-height:1;vertical-align:baseline;color:inherit}
+.phone .contact-icon{color:inherit}
+.header-phone strong{white-space:nowrap}
+@media(max-width:700px){header{flex-wrap:wrap;gap:12px}.hero-banner>.hero-label{padding:28px 20px 0;gap:12px}.hero-banner>.hero-label img{width:84px;height:auto}.hero-motto{font-size:15px;letter-spacing:.06em}.hero-inner{padding-top:28px}.header-phone{margin-left:auto}html[lang="en"] .header-phone{max-width:none}}
+
+.phone .contact-number{color:inherit}
+
+/* Full agency name in flag red, with a heavier type treatment. */
+.language-card h1.agency-title{color:#DA251D;font-family:Arial,SiteSans,Helvetica,sans-serif;font-weight:700;font-size:calc(clamp(25px,4.8vw,34px) + 1px);line-height:1.35;letter-spacing:0}
+.brand .agency-name,.brand .agency-name small{color:#DA251D;font-family:Arial,SiteSans,Helvetica,sans-serif;font-weight:700;letter-spacing:.02em}
+.brand .agency-name small{font-size:inherit;line-height:1.5}
+.section-6 .section-body>h3.agency-contact{color:#DA251D;font-weight:700}
+@media(max-width:700px){.brand:has(.agency-name){flex:1 1 210px;min-width:0}.agency-name{overflow-wrap:normal}.language-card h1.agency-title{font-size:calc(clamp(23px,6vw,28px) + 1px)}}
+
+/* Increase the three requested hero text sizes by 2px. */
+.hero-copy h1{font-size:calc(clamp(44px,calc(5.2vw + 4px),76px) + 1px)}
+html[lang="en"] .hero-copy h1{font-size:calc(clamp(40px,calc(5vw + 4px),68px) + 1px)}
+.hero-copy>p{font-size:21px}
+.hero-copy .hero-button{font-size:19px;max-width:100%}
+.language-card h1.agency-title,.brand .agency-name,.brand .agency-name small,.section-6 .section-body>h3.agency-contact{font-family:Arial,SiteSans,Helvetica,sans-serif;font-weight:700;color:#DA251D}
+@media(max-width:700px){.hero-copy h1{font-size:calc(45px + 1px)}html[lang="en"] .hero-copy h1{font-size:calc(42px + 1px)}.hero-copy>p{font-size:19px}.hero-copy .hero-button{font-size:17px}}
+
+/* Requested typography, emblem spacing and map search icons. */
+
+@media(min-width:701px){.language-card h1.agency-title,.brand .agency-name,.brand .agency-name small{font-family:Arial,SiteSans,Helvetica,sans-serif;font-weight:700;font-synthesis:none}}
+.brand .agency-name,.brand .agency-name small{color:#000}
+.entry-location{margin-top:6px}
+.map-search-icon{display:inline-block;width:1em;height:1em;vertical-align:-.125em;flex-shrink:0}
+
+/* Requested image placements and report heading. */
+.hero-banner{display:grid;grid-template-columns:1fr .8fr 1.4fr;align-items:stretch;max-width:1260px;margin:auto;padding:28px 5% 0;gap:0}
+.hero-banner>.hero-label{width:auto;padding:16px 10px;gap:8px;min-width:0}
+.hero-banner>.hero-label img{width:96px;height:auto}
+.hero-banner .hero-motto{max-width:100%}
+.hero-drum{background-size:auto 100%;background-position:40% center;background-repeat:no-repeat;min-width:0}
+.hero-banner-photo{display:block;width:100%;height:auto;align-self:center}
+.section-photo{display:block;width:100%;height:auto;margin:24px 0;max-width:100%}
+.section-6 h2{color:#DA251D}
+@media(max-width:700px){.hero-banner{padding:20px 16px 0;grid-template-columns:1fr .65fr 1.25fr}.hero-banner>.hero-label{padding:8px 3px;gap:6px}.hero-banner>.hero-label img{width:64px;max-width:80%}.hero-banner .hero-motto{font-size:15px;letter-spacing:0;line-height:1.4}.hero-banner-photo{height:100%;object-fit:cover;object-position:center}.hero-drum{background-position:40% center}}
+
+/* One continuous banner above the article, with the emblem over the drum. */
+.hero-banner{position:relative;isolation:isolate;display:block;max-width:1440px;height:clamp(180px,22vw,300px);margin:0 24px;padding:0;overflow:hidden;background:#faf8e9}
+.hero-drum{position:absolute;inset:0 auto 0 0;width:66%;z-index:-2;background-size:500% 100%;background-position:43% center;background-repeat:no-repeat}
+.hero-banner>.hero-label{position:absolute;inset:0 auto 0 0;width:46%;padding:16px 12px;gap:8px;z-index:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+.hero-banner>.hero-label img{width:clamp(84px,9vw,126px);height:auto;max-width:100%}
+.hero-banner .hero-motto{font-size:17px;line-height:1.4;letter-spacing:.06em;color:#C8322B;white-space:nowrap}
+.hero-banner-photo{position:absolute;inset:0 0 0 auto;display:block;width:62%;height:100%;object-fit:cover;object-position:center 40%;z-index:-1;mask-image:linear-gradient(to right,transparent 0%,#000 30%,#000 100%);-webkit-mask-image:linear-gradient(to right,transparent 0%,#000 30%,#000 100%)}
+@media(min-width:1500px){.hero-banner{margin-left:auto;margin-right:auto}}
+@media(max-width:700px){.hero-banner{margin:0 12px;height:180px;padding:0}.hero-banner>.hero-label{width:49%;padding:10px 2px;gap:8px}.hero-banner>.hero-label img{width:76px;max-width:80%}.hero-banner .hero-motto{font-size:15px;letter-spacing:0;white-space:normal;max-width:100%}.hero-banner-photo{width:60%;height:100%;object-fit:cover;object-position:44% center}.hero-drum{width:72%;background-size:500% 100%;background-position:43% center}}
+
+/* Requested motto positioning, article sizes and subtle surface details. */
+.hero-banner>.hero-label{left:10px;width:max-content;max-width:46%;padding:16px 0;gap:8px}
+.hero-banner .hero-motto{font-size:15px;letter-spacing:.01em;word-spacing:0;white-space:nowrap}
+.entry-emblem{display:block;margin-left:auto;margin-right:auto;filter:contrast(1.12) saturate(1.08) drop-shadow(0 2px 2px rgba(90,55,12,.25))}
+.entry-location{letter-spacing:.06em;word-spacing:0;margin-top:2px}
+.content{font-size:19px}
+.content .section-heading h2{font-size:calc(34px + 1px)}
+.content h3{font-size:calc(20px + 1px)}
+.content .check>h3:first-of-type{font-size:calc(23px + 1px)}
+.content .province summary{font-size:calc(17px + 1px)}
+.content .check-number{font-size:15px}
+.content .action{font-size:17px}
+.content .eyebrow{font-size:calc(14px + 1px)}
+.content .section-no{font-size:47px}
+.content .phone{font-size:clamp(29px,calc(4vw + 2px),44px)}
+.hero{background-image:repeating-radial-gradient(ellipse at 100% 0%,transparent 0px,transparent 78px,rgba(255,255,255,.045) 79px,transparent 80px,transparent 130px)}
+.language-card{background-color:#f8f5ed;background-image:repeating-linear-gradient(135deg,transparent 0px,transparent 65px,rgba(255,255,255,.3) 66px,transparent 67px,transparent 110px)}
+@media(max-width:700px){
+.hero-banner>.hero-label{left:6px;width:max-content;max-width:49%;padding:10px 0;gap:8px}
+.hero-banner .hero-motto{font-size:13px;letter-spacing:.005em;white-space:normal}
+.content{font-size:18px}
+.content .section-heading h2{font-size:calc(30px + 1px)}
+.content .section-6 .section-heading h2{font-size:calc(29px + 1px)}
+.content .check>h3:first-of-type{font-size:calc(21px + 1px)}
+.content .province summary{font-size:calc(16px + 1px)}
+.content .section-no{font-size:37px}
+}
+
+/* Requested full-photo banner, four-line title and sky transition. */
+.hero-banner.hero-banner-full{height:auto;aspect-ratio:16/9;background:none}
+.hero-banner-full .hero-banner-photo{position:static;width:100%;height:auto;display:block;object-fit:contain;mask-image:none;-webkit-mask-image:none}
+.hero-copy{container-type:inline-size}
+.hero-copy h1{font-size:calc(clamp(20px,8.5cqw,74px) + 1px)}
+html[lang="en"] .hero-copy h1{font-size:calc(clamp(18px,7.2cqw,66px) + 1px)}
+.hero-copy h1>span,.hero-copy h1>em{display:block;white-space:nowrap}
+.hero-sky{position:relative;overflow:hidden;background:#3992C9}
+.hero-sky img{display:block;width:100%;height:auto;animation:sky-reveal 1.8s ease-out both}
+.hero-sky::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(to bottom,#3992C9 0%,rgba(57,146,201,.92) 5%,rgba(57,146,201,.55) 16%,rgba(57,146,201,.15) 30%,transparent 44%)}
+.hero-bottom{border-top:1px solid rgba(255,255,255,.5)}
+@keyframes sky-reveal{from{opacity:.35}to{opacity:1}}
+@media(prefers-reduced-motion:reduce){.hero-sky img{animation:none}}
+
+/* Requested footer order and +2px title, retaining its four lines. */
+footer{flex-direction:column;align-items:flex-start;justify-content:flex-start}
+footer>a{display:block;margin-top:4px}
+.hero-copy h1{font-size:calc(clamp(22px,calc(8.5cqw + 2px),76px) + 1px)}
+html[lang="en"] .hero-copy h1{font-size:calc(clamp(20px,calc(7.2cqw + 2px),68px) + 1px)}
+
+/* Keep the information line visible beneath the airport image on all screens. */
+.hero-bottom span:last-child{display:block}
+
+/* Requested fonts for agency names and the introductory message. */
+.language-card h1.agency-title,.brand .agency-name,.brand .agency-name small{font-family:Arial,SiteSans,Helvetica,sans-serif;font-weight:700}
+.hero-copy>p{font-family:"Times New Roman",Times,serif}
+
+/* Arial Bold for headings; retain the motto size. */
+h1,h1 em,h2,h3,.eyebrow,.province summary,.entry-location,.language-card h1.agency-title,.brand .agency-name,.brand .agency-name small,.section-6 .section-body>h3.agency-contact{font-family:Arial,SiteSans,Helvetica,sans-serif;font-weight:700}
+.brand .agency-name{font-size:calc(1em + 1px)}
+
+.hero-copy h1 em{font-family:"Times New Roman",Times,"Noto Serif","Liberation Serif",serif;font-weight:400;font-style:italic}
+.hero-copy>p{font-family:"Times New Roman",Times,"Noto Serif","Liberation Serif",serif}
+.section-no{font-family:"Times New Roman",Times,Georgia,serif}
+header .brand:has(.agency-name){flex:1;min-width:0;container-type:inline-size}
+header .brand .agency-name{display:block;font-size:min(15px,3.5cqw);letter-spacing:0;white-space:nowrap;line-height:1.5}
+header .brand .agency-name small{display:block;font-size:inherit;white-space:nowrap;letter-spacing:0}
+header .header-phone{flex-shrink:0}
+
+/* Full images preserve the terminal and control tower in the local Van Don preview. */
+.hero-banner.hero-banner-full{aspect-ratio:auto}
+.airport-photo{margin:28px 0;max-width:100%}
+.airport-photo .section-photo{margin:0;width:100%;height:auto}
+.airport-photo figcaption{font-size:13px;line-height:1.6;margin-top:8px;opacity:.85}
+.airport-photo figcaption a{text-decoration:underline}
+.section-6 .airport-photo figcaption{color:#fff}
+

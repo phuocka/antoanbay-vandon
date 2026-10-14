@@ -1,0 +1,159 @@
+{
+  "source": "Nội dung phân vùng do người dùng cung cấp và xác nhận cho bản Vân Đồn",
+  "areas": [
+    {
+      "name": "Đặc khu Vân Đồn",
+      "name_en": "Đặc khu Vân Đồn (Van Don Special Zone)",
+      "status": "Có cả khu vực cấm bay và khu vực hạn chế bay",
+      "status_en": "Both prohibited and restricted flight zones",
+      "prohibited": [
+        "Phủ trùm lên toàn bộ Cảng hàng không quốc tế Vân Đồn và dải hành lang đường cất/hạ cánh kéo dài (rộng 5 km, dài 15 km tính từ hai đầu đường băng).",
+        "Các vị trí đóng quân, căn cứ quốc phòng, trận địa cảnh giới biển, đảo thuộc Đặc khu Vân Đồn."
+      ],
+      "prohibited_en": [
+        "Covers the entire Van Don International Airport and the extended take-off and landing corridor (5 km wide and extending 15 km from the two runway ends).",
+        "Military deployment locations, defence bases and sea and island surveillance positions within the Van Don Special Zone."
+      ],
+      "restricted": [
+        "Toàn bộ phần còn lại của Đặc khu Vân Đồn, bao gồm vùng trời tiếp giáp phễu hạ cánh sân bay và khu vực các xã đảo Quan Lạn, Minh Châu, Ngọc Vừng, Bản Sen..."
+      ],
+      "restricted_en": [
+        "All remaining parts of the Van Don Special Zone, including airspace adjoining the airport approach funnel and the island commune areas of Quan Lạn, Minh Châu, Ngọc Vừng and Bản Sen."
+      ],
+      "reason": "Thuộc vùng trời ven biển, đảo tiền tiêu quốc phòng và nằm trong dải tiếp cận bay của Cảng hàng không.",
+      "reason_en": "Coastal airspace and forward defence islands situated within the airport approach corridor."
+    },
+    {
+      "name": "Phường Cẩm Phả",
+      "name_en": "Phường Cẩm Phả (Cam Pha Ward)",
+      "status": "Hạn chế bay, có điểm cấm bay cục bộ",
+      "status_en": "Restricted flight zone with local prohibited areas",
+      "prohibited": [
+        "Trụ sở Trung tâm Hành chính, Trụ sở Công an, Ban Chỉ huy Quân sự cấp phường/thành phố nằm trên địa bàn.",
+        "Các trạm biến áp, kho vật liệu nổ công nghiệp phục vụ khai thác than."
+      ],
+      "prohibited_en": [
+        "Administrative centre, police headquarters and ward/city military command headquarters within the area.",
+        "Electrical substations and industrial explosives storage facilities serving coal mining."
+      ],
+      "restricted": [
+        "Chiếm đa số diện tích vùng trời phường Cẩm Phả do nằm trong khu vực đô thị trung tâm, mật độ dân cư cao và có dải hạ tầng giao thông/biển."
+      ],
+      "restricted_en": [
+        "Covers most of Cam Pha Ward's airspace because it is a central urban area with high population density and transport and maritime infrastructure corridors."
+      ]
+    },
+    {
+      "name": "Phường Cửa Ông",
+      "name_en": "Phường Cửa Ông (Cua Ong Ward)",
+      "status": "Hạn chế bay và cấm bay cục bộ",
+      "status_en": "Restricted flight zone and local prohibited areas",
+      "prohibited": [
+        "Cảng Cửa Ông và hệ thống kho tàng, bến bãi hạ tầng năng lượng - công nghiệp trọng điểm quốc gia.",
+        "Vùng bảo vệ tích cực quanh Di tích lịch sử Đền Cửa Ông và các điểm quân sự trực chiến trên địa bàn."
+      ],
+      "prohibited_en": [
+        "Cua Ong Port and its warehouses, yards and nationally important energy and industrial infrastructure.",
+        "The active protection zone around the historic Cua Ong Temple and military readiness positions in the area."
+      ],
+      "restricted": [
+        "Toàn bộ các khu dân cư nội phường và mặt nước biển ven bờ thuộc phường Cửa Ông."
+      ],
+      "restricted_en": [
+        "All residential areas within Cua Ong Ward and the ward's coastal waters."
+      ]
+    },
+    {
+      "name": "Phường Mông Dương",
+      "name_en": "Phường Mông Dương (Mong Duong Ward)",
+      "status": "Hạn chế bay, có điểm cấm bay cục bộ",
+      "status_en": "Restricted flight zone with local prohibited areas",
+      "prohibited": [
+        "Khu vực Nhà máy Nhiệt điện Mông Dương 1 & 2 cùng hệ thống trạm biến áp, đường dây truyền tải 500 kV.",
+        "Khu vực khai thác, kho khoáng sản, vật liệu nổ công nghiệp trọng điểm."
+      ],
+      "prohibited_en": [
+        "Mong Duong 1 and 2 thermal power plants, associated substations and 500 kV transmission lines.",
+        "Key extraction areas, mineral storage and industrial explosives facilities."
+      ],
+      "restricted": [
+        "Các vùng đồi núi, khu vực khai thác than bề mặt và khu vực dân cư của phường Mông Dương; áp dụng giới hạn độ cao bay dưới 120 m."
+      ],
+      "restricted_en": [
+        "Hilly areas, surface coal mining areas and residential areas of Mong Duong Ward; a flight altitude limit below 120 m applies."
+      ]
+    },
+    {
+      "name": "Xã Hải Hoà",
+      "name_en": "Xã Hải Hoà (Hai Hoa Commune)",
+      "status": "Khu vực hạn chế bay biên giới, cấm bay cục bộ tại mục tiêu",
+      "status_en": "Border restricted flight zone with prohibited areas around designated sites",
+      "prohibited": [
+        "Các đồn, trạm biên phòng, trận địa phòng thủ và khu vực vành đai biên giới sát đường biên."
+      ],
+      "prohibited_en": [
+        "Border guard posts and stations, defensive positions and the border belt immediately adjoining the border line."
+      ],
+      "restricted": [
+        "Phủ trùm toàn bộ xã Hải Hoà do nằm trọn trong dải hạn chế bay biên giới 25.000 m tính từ đường biên giới quốc gia Việt Nam - Trung Quốc."
+      ],
+      "restricted_en": [
+        "Covers all of Hai Hoa Commune, which lies within the 25,000 m border restricted flight strip measured from the Vietnam–China national border."
+      ]
+    },
+    {
+      "name": "Xã Hải Lạng",
+      "name_en": "Xã Hải Lạng (Hai Lang Commune)",
+      "status": "Khu vực hạn chế bay, có dải cấm bay hành lang",
+      "status_en": "Restricted flight zone with prohibited corridor areas",
+      "prohibited": [
+        "Các công trình quốc phòng địa phương, trận địa diễn tập và các nút giao thông hạ tầng trọng điểm cắt qua địa bàn."
+      ],
+      "prohibited_en": [
+        "Local defence facilities, exercise positions and key transport infrastructure junctions crossing the area."
+      ],
+      "restricted": [
+        "Toàn bộ địa giới xã Hải Lạng thuộc khu vực hạn chế bay do nằm trong hành lang an toàn bay ven biển và dải ảnh hưởng biên giới mở rộng."
+      ],
+      "restricted_en": [
+        "All of Hai Lang Commune is a restricted flight zone because it lies within the coastal flight safety corridor and the extended border influence strip."
+      ]
+    },
+    {
+      "name": "Xã Tiên Yên",
+      "name_en": "Xã Tiên Yên (Tien Yen Commune)",
+      "status": "Khu vực hạn chế bay",
+      "status_en": "Restricted flight zone",
+      "prohibited": [
+        "Trụ sở cơ quan chính quyền xã, Ban Chỉ huy Quân sự, Công an xã và các điểm đóng quân của lực lượng vũ trang."
+      ],
+      "prohibited_en": [
+        "Commune government offices, military command, commune police headquarters and armed forces deployment sites."
+      ],
+      "restricted": [
+        "Phủ rộng trên toàn bộ vùng trời xã Tiên Yên do nằm trong dải bán kính 25 km tính từ đường biên giới và là khu vực đô thị/trung tâm giao thông kết nối liên huyện."
+      ],
+      "restricted_en": [
+        "Extends across all of Tien Yen Commune's airspace because it lies within the 25 km strip measured from the border and is an urban area and inter-district transport hub."
+      ]
+    },
+    {
+      "name": "Xã Đầm Hà",
+      "name_en": "Xã Đầm Hà (Dam Ha Commune)",
+      "status": "Khu vực hạn chế bay biên giới, cấm bay cục bộ",
+      "status_en": "Border restricted flight zone with local prohibited areas",
+      "prohibited": [
+        "Khu vực trụ sở chính quyền, trạm đài viễn thông an ninh - quốc phòng và các căn cứ/kho tàng quân sự trên địa bàn xã."
+      ],
+      "prohibited_en": [
+        "Government office areas, security and defence telecommunications stations, and military bases and storage facilities within the commune."
+      ],
+      "restricted": [
+        "Chiếm diện tích đa số của xã Đầm Hà do địa giới nằm hoàn toàn trong vùng hạn chế bay biên giới, phạm vi 25 km từ đường biên giới trở vào nội địa."
+      ],
+      "restricted_en": [
+        "Covers most of Dam Ha Commune because its territory lies entirely within the border restricted flight zone, extending 25 km inland from the border."
+      ]
+    }
+  ]
+}

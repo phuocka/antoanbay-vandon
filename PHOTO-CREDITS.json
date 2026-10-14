@@ -1,0 +1,137 @@
+[
+  {
+    "file": "vandon-day.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:San-bay-van-don-toan-canh.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/San-bay-van-don-toan-canh.jpg",
+    "author": "Vương Thuỷ MT",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Converted and recompressed as JPEG; no crop"
+  },
+  {
+    "file": "vandon-night.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:San-bay-van-don-ve-dem.jpg",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/San-bay-van-don-ve-dem.jpg",
+    "author": "Vương Thuỷ MT",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Converted and recompressed as JPEG; no crop"
+  },
+  {
+    "file": "vandon-terminal.jpg",
+    "url": "https://vandonairport.vn/wp-content/uploads/2020/01/san-bay-van-don-cang-hang-khong-quoc-te.jpg",
+    "source": "https://vandonairport.vn/gallery/",
+    "source_size": [
+      2048,
+      1366
+    ],
+    "size": [
+      1600,
+      1067
+    ],
+    "rights": "Copyright status not confirmed. Local review only; obtain reuse permission before public deployment.",
+    "caption_vi": "Nhà ga Cảng hàng không quốc tế Vân Đồn",
+    "caption_en": "Terminal at Van Don International Airport"
+  },
+  {
+    "file": "vandon-arrivals.jpg",
+    "url": "https://vandonairport.vn/wp-content/uploads/2020/01/san-bay-van-don-sanh-den.jpg",
+    "source": "https://vandonairport.vn/gallery/",
+    "source_size": [
+      2048,
+      1382
+    ],
+    "size": [
+      1600,
+      1080
+    ],
+    "rights": "Copyright status not confirmed. Local review only; obtain reuse permission before public deployment.",
+    "caption_vi": "Không gian nhà ga hành khách Vân Đồn",
+    "caption_en": "Passenger terminal at Van Don International Airport"
+  },
+  {
+    "file": "vandon-security.jpg",
+    "source": "User-supplied photograph",
+    "source_file": "gry5y5y5-1768971322.jpg",
+    "source_size": [1140, 760],
+    "size": [1140, 760],
+    "changes": "Original JPEG copied unchanged; no crop or recompression",
+    "rights": "User supplied for local preview. Copyright ownership and public reuse license not independently confirmed.",
+    "caption_vi": "Kiểm tra hành lý tại nhà ga Vân Đồn",
+    "caption_en": "Baggage inspection at the Van Don terminal"
+  },
+  {
+    "file": "vandon-runway.jpg",
+    "url": "https://vandonairport.vn/wp-content/uploads/2020/01/san-bay-van-don-duong-bang.jpg",
+    "source": "https://vandonairport.vn/gallery/",
+    "source_size": [
+      2048,
+      1463
+    ],
+    "size": [
+      1600,
+      1143
+    ],
+    "rights": "Copyright status not confirmed. Local review only; obtain reuse permission before public deployment.",
+    "caption_vi": "Đường cất, hạ cánh Vân Đồn về đêm",
+    "caption_en": "Van Don runway at night"
+  },
+  {
+    "file": "vandon-apron.jpg",
+    "url": "https://vandonairport.vn/wp-content/uploads/2023/05/DJI_0288-scaled.jpg",
+    "source": "https://vandonairport.vn/gallery/",
+    "source_size": [
+      2560,
+      1438
+    ],
+    "size": [
+      1600,
+      899
+    ],
+    "rights": "Copyright status not confirmed. Local review only; obtain reuse permission before public deployment.",
+    "caption_vi": "Tàu bay trên sân đỗ Cảng hàng không quốc tế Vân Đồn",
+    "caption_en": "Aircraft on the apron at Van Don International Airport"
+  },
+  {
+    "file": "vandon-aircraft-1.jpg",
+    "url": "https://vandonairport.vn/wp-content/uploads/2025/05/775A1445-1-scaled.jpg",
+    "source": "https://vandonairport.vn/gallery/",
+    "source_size": [
+      2560,
+      1707
+    ],
+    "size": [
+      1600,
+      1067
+    ],
+    "rights": "Copyright status not confirmed. Local review only; obtain reuse permission before public deployment.",
+    "caption_vi": "Hành khách tại khu vực chờ lên tàu bay ở Vân Đồn",
+    "caption_en": "Passengers waiting at a departure gate in Van Don"
+  },
+  {
+    "file": "vandon-aircraft-2.jpg",
+    "url": "https://vandonairport.vn/wp-content/uploads/2025/05/775A2974-1-1-scaled.jpg",
+    "source": "https://vandonairport.vn/gallery/",
+    "source_size": [
+      2560,
+      1707
+    ],
+    "size": [
+      1600,
+      1067
+    ],
+    "rights": "Copyright status not confirmed. Local review only; obtain reuse permission before public deployment.",
+    "caption_vi": "Khu nhận hành lý tại nhà ga Vân Đồn",
+    "caption_en": "Baggage reclaim at the Van Don terminal"
+  },
+  {
+    "file": "vandon-cargo-inspection.webp",
+    "source": "User-supplied photograph",
+    "source_file": "fdbhtrh6h-1139.webp",
+    "size": [1290, 860],
+    "changes": "Original WebP copied unchanged; no crop or recompression",
+    "rights": "User supplied for local preview; public reuse license not independently confirmed.",
+    "caption_vi": "Kiểm tra hàng hóa tại nhà ga Vân Đồn",
+    "caption_en": "Cargo inspection at the Van Don terminal"
+  }
+]
